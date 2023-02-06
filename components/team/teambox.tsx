@@ -16,9 +16,9 @@ const Item = styled(Paper)(({ theme }) => ({
 }));
 
 let teamdata = [
-    { name: 'Muhammad Anas Ali Abbasi CEO', img: Img, desc: '' },
-    { name: 'Okasha Tanoli CTO', img: Img, desc: '' },
-    { name: 'MUhammad Emmad Sidique COO', img: Img, desc: '' },
+    { name: 'Muhammad Anas Ali Abbasi /n CEO', img: Img, desc: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsam eaque mollitia,omnis amet voluptate iste. Voluptatem totam, sunt aperiam error tempore,aspernatur inventore eum, reprehenderit voluptas veniam temporibus distinctio quae.' },
+    { name: 'Okasha Tanoli /n CTO', img: Img, desc: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsam eaque mollitia,omnis amet voluptate iste. Voluptatem totam, sunt aperiam error tempore,aspernatur inventore eum, reprehenderit voluptas veniam temporibus distinctio quae.' },
+    { name: 'MUhammad Emmad Sidique /n COO', img: Img, desc: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsam eaque mollitia,omnis amet voluptate iste. Voluptatem totam, sunt aperiam error tempore,aspernatur inventore eum, reprehenderit voluptas veniam temporibus distinctio quae.' },
 ]
 export default function ResponsiveGrid() {
     return (
