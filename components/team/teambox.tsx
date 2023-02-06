@@ -16,9 +16,9 @@ const Item = styled(Paper)(({ theme }) => ({
 }));
 
 let teamdata = [
-    { name: 'Muhammad Anas Ali Abbasi /n CEO', img: Img, desc: '' },
-    { name: 'Okasha Tanoli /n CTO', img: Img, desc: '' },
-    { name: 'MUhammad Emmad Sidique /n COO', img: Img, desc: '' },
+    { name: 'Muhammad Anas Ali Abbasi </br> CEO', img: Img, desc: '' },
+    { name: 'Okasha Tanoli </br> CTO', img: Img, desc: '' },
+    { name: 'MUhammad Emmad Sidique </br> COO', img: Img, desc: '' },
 ]
 export default function ResponsiveGrid() {
     return (
